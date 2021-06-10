@@ -1,2 +1,2 @@
 #!/bin/bash
-find /opt/lampp/htdocs -type d -exec chmod 755 {} \
+find ./ -type d -exec chmod a+x {} \
